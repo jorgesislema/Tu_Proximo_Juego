@@ -1,2 +1,3 @@
-# Machine-Learning-Operations-MLOps-
-PROYECTO INDIVIDUAL 1
+PRO PROYECTO INDIVIDUAL Nº1
+Machine Learning Operations (MLOps)
+
